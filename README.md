@@ -1,4 +1,7 @@
 # NGO_Site
 Click to vist Site: https://ni31.github.io/NGO_Site/
-# Output
-Video of site: https://user-images.githubusercontent.com/79063904/221256636-cb947060-87b7-448d-b940-2c3ad4440869.mp4
+
+
+
+https://user-images.githubusercontent.com/79063904/224394758-3af183a1-7e62-4ddd-9a3c-fbc3e48bad8b.mp4
+
